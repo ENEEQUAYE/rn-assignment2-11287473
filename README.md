@@ -12,7 +12,8 @@ This project is a simple React Native application created for DCIT202 MOBILE APP
 
 ## Screenshot
 
-![Screenshot_20240626-200316](https://github.com/ENEEQUAYE/rn-assignment2-11287473/assets/173492335/5eee5023-ffec-4084-bba1-217470678294)
+![Screenshot_20240626-201537](https://github.com/ENEEQUAYE/rn-assignment2-11287473/assets/173492335/17b5c6ba-32b8-4206-94c0-d496bbd5031e)
+
 
 
 
